@@ -1,0 +1,34 @@
+img {
+    border-radius:50%;
+}
+.img-hello {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+h3 {
+    text-align: center;
+    font-family: monospace;
+    color: white;
+}
+h4 {
+    text-align: center;
+    font-family: monospace;
+    color: white;
+}
+body {
+    background-color: rgb(49, 48, 51);
+}
+.hi {
+    border: 2px solid white;
+    text-align: center;
+    padding: 5px ;
+    margin: auto;
+    background-color: white;
+    width: 60% ;
+    margin-top: 2% ;
+    cursor: pointer;
+}
+.hi:hover {
+background-color: rgb(49, 48, 51);
+}
